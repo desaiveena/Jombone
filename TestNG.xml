@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="JomboneTestSuite">
+
+	<listeners>
+
+		<listener class-name="com.utilities.Reporting" />
+	</listeners>
+
+	<test name="TestNGTest1" thread-count="5">
+		<classes>
+			<!-- packagename.classname -->
+			  <class name="com.testCases.JMB_CASignUp001" />
+               <class name="com.testCases.JMB_CASignUp002" />
+               <class name="com.testCases.JMB_CASignUp003" />
+                <class name="com.testCases.JMB_CASignUp007" />
+               <class name="com.testCases.JMB_CASignUp008" />
+               <class name="com.testCases.JMB_CASignUp009" />
+               <class name="com.testCases.JMB_CASignUp010" />
+              
+               <class name="com.testCases.JMB_CASignUp016" />
+               <class name="com.testCases.JMB_CASignUp017" />
+               <class name="com.testCases.JMB_CASignUp018" />
+		       <class name="com.testCases.JMB_CASignUp019" />
+        
+		       
+               
+		
+
+<!--	       <class name="com.testCases.JMB_CASignUp_001" />
+               <class name="com.testCases.JMB_CASignUp_002" />
+               <class name="com.testCases.JMB_CASignUp_003" />
+               <class name="com.testCases.JMB_CASignUp_004" />
+               <class name="com.testCases.JMB_CASignUp_005" />
+               <class name="com.testCases.JMB_CASignUp_006" />
+               <class name="com.testCases.JMB_CASignUp_007" />
+               <class name="com.testCases.JMB_CASignUp_008" />
+               <class name="com.testCases.JMB_CASignUp_009" />
+               <class name="com.testCases.JMB_CASignUp_010" />
+               
+
+ -->
+
+		</classes>
+	</test>
+</suite> <!-- Suite --> 

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JomboneTestSuite" duration-ms="163009" started-at="2021-12-11T07:26:58 EST" finished-at="2021-12-11T07:29:41 EST">
+    <groups>
+    </groups>
+    <test name="TestNGTest1" duration-ms="163009" started-at="2021-12-11T07:26:58 EST" finished-at="2021-12-11T07:29:41 EST">
+      <class name="com.testCases.JMB_CASignUp009">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp009@192d3247]" name="setup" is-config="true" duration-ms="11816" started-at="2021-12-11T07:28:03 EST" finished-at="2021-12-11T07:28:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp009()[pri:1, instance:com.testCases.JMB_CASignUp009@192d3247]" name="JMB_CASignUp009" duration-ms="1099" started-at="2021-12-11T07:28:15 EST" finished-at="2021-12-11T07:28:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp009 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp009@192d3247]" name="tearDown" is-config="true" duration-ms="82" started-at="2021-12-11T07:28:16 EST" finished-at="2021-12-11T07:28:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp009 -->
+      <class name="com.testCases.JMB_CASignUp008">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp008@7cbd213e]" name="setup" is-config="true" duration-ms="9204" started-at="2021-12-11T07:27:51 EST" finished-at="2021-12-11T07:28:01 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp008()[pri:1, instance:com.testCases.JMB_CASignUp008@7cbd213e]" name="JMB_CASignUp008" duration-ms="2386" started-at="2021-12-11T07:28:01 EST" finished-at="2021-12-11T07:28:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp008 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp008@7cbd213e]" name="tearDown" is-config="true" duration-ms="91" started-at="2021-12-11T07:28:03 EST" finished-at="2021-12-11T07:28:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp008 -->
+      <class name="com.testCases.JMB_CASignUp019">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp019@553a3d88]" name="setup" is-config="true" duration-ms="8918" started-at="2021-12-11T07:29:20 EST" finished-at="2021-12-11T07:29:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp019()[pri:1, instance:com.testCases.JMB_CASignUp019@553a3d88]" name="JMB_CASignUp019" duration-ms="12038" started-at="2021-12-11T07:29:29 EST" finished-at="2021-12-11T07:29:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp019 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp019@553a3d88]" name="tearDown" is-config="true" duration-ms="110" started-at="2021-12-11T07:29:41 EST" finished-at="2021-12-11T07:29:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp019 -->
+      <class name="com.testCases.JMB_CASignUp010">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp010@3ecd23d9]" name="setup" is-config="true" duration-ms="9038" started-at="2021-12-11T07:28:16 EST" finished-at="2021-12-11T07:28:25 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp010()[pri:1, instance:com.testCases.JMB_CASignUp010@3ecd23d9]" name="JMB_CASignUp010" duration-ms="10807" started-at="2021-12-11T07:28:25 EST" finished-at="2021-12-11T07:28:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp010 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp010@3ecd23d9]" name="tearDown" is-config="true" duration-ms="105" started-at="2021-12-11T07:28:36 EST" finished-at="2021-12-11T07:28:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp010 -->
+      <class name="com.testCases.JMB_CASignUp003">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp003@42eca56e]" name="setup" is-config="true" duration-ms="8817" started-at="2021-12-11T07:27:29 EST" finished-at="2021-12-11T07:27:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp003()[pri:1, instance:com.testCases.JMB_CASignUp003@42eca56e]" name="JMB_CASignUp003" duration-ms="1877" started-at="2021-12-11T07:27:38 EST" finished-at="2021-12-11T07:27:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp003 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp003@42eca56e]" name="tearDown" is-config="true" duration-ms="84" started-at="2021-12-11T07:27:40 EST" finished-at="2021-12-11T07:27:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp003 -->
+      <class name="com.testCases.JMB_CASignUp002">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp002@b7dd107]" name="setup" is-config="true" duration-ms="9065" started-at="2021-12-11T07:27:18 EST" finished-at="2021-12-11T07:27:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp002()[pri:1, instance:com.testCases.JMB_CASignUp002@b7dd107]" name="JMB_CASignUp002" duration-ms="2008" started-at="2021-12-11T07:27:27 EST" finished-at="2021-12-11T07:27:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp002@b7dd107]" name="tearDown" is-config="true" duration-ms="84" started-at="2021-12-11T07:27:29 EST" finished-at="2021-12-11T07:27:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp002 -->
+      <class name="com.testCases.JMB_CASignUp001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp001@4a87761d]" name="setup" is-config="true" duration-ms="13183" started-at="2021-12-11T07:26:58 EST" finished-at="2021-12-11T07:27:11 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp001()[pri:1, instance:com.testCases.JMB_CASignUp001@4a87761d]" name="JMB_CASignUp001" duration-ms="6328" started-at="2021-12-11T07:27:11 EST" finished-at="2021-12-11T07:27:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp001@4a87761d]" name="tearDown" is-config="true" duration-ms="96" started-at="2021-12-11T07:27:18 EST" finished-at="2021-12-11T07:27:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp001 -->
+      <class name="com.testCases.JMB_CASignUp018">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp018@64f6106c]" name="setup" is-config="true" duration-ms="9216" started-at="2021-12-11T07:28:59 EST" finished-at="2021-12-11T07:29:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp018()[pri:1, instance:com.testCases.JMB_CASignUp018@64f6106c]" name="JMB_CASignUp018" duration-ms="11051" started-at="2021-12-11T07:29:09 EST" finished-at="2021-12-11T07:29:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp018 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp018@64f6106c]" name="tearDown" is-config="true" duration-ms="99" started-at="2021-12-11T07:29:20 EST" finished-at="2021-12-11T07:29:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp018 -->
+      <class name="com.testCases.JMB_CASignUp007">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp007@52f759d7]" name="setup" is-config="true" duration-ms="9145" started-at="2021-12-11T07:27:40 EST" finished-at="2021-12-11T07:27:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp007()[pri:1, instance:com.testCases.JMB_CASignUp007@52f759d7]" name="JMB_CASignUp007" duration-ms="2577" started-at="2021-12-11T07:27:49 EST" finished-at="2021-12-11T07:27:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp007 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp007@52f759d7]" name="tearDown" is-config="true" duration-ms="89" started-at="2021-12-11T07:27:51 EST" finished-at="2021-12-11T07:27:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp007 -->
+      <class name="com.testCases.JMB_CASignUp017">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp017@33723e30]" name="setup" is-config="true" duration-ms="9060" started-at="2021-12-11T07:28:47 EST" finished-at="2021-12-11T07:28:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp017()[pri:1, instance:com.testCases.JMB_CASignUp017@33723e30]" name="JMB_CASignUp017" duration-ms="2890" started-at="2021-12-11T07:28:56 EST" finished-at="2021-12-11T07:28:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp017 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp017@33723e30]" name="tearDown" is-config="true" duration-ms="86" started-at="2021-12-11T07:28:59 EST" finished-at="2021-12-11T07:28:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp017 -->
+      <class name="com.testCases.JMB_CASignUp016">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp016@43bd930a]" name="setup" is-config="true" duration-ms="9021" started-at="2021-12-11T07:28:36 EST" finished-at="2021-12-11T07:28:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CASignUp016()[pri:1, instance:com.testCases.JMB_CASignUp016@43bd930a]" name="JMB_CASignUp016" duration-ms="2183" started-at="2021-12-11T07:28:45 EST" finished-at="2021-12-11T07:28:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CASignUp016 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp016@43bd930a]" name="tearDown" is-config="true" duration-ms="85" started-at="2021-12-11T07:28:47 EST" finished-at="2021-12-11T07:28:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CASignUp016 -->
+    </test> <!-- TestNGTest1 -->
+  </suite> <!-- JomboneTestSuite -->
+</testng-results>
